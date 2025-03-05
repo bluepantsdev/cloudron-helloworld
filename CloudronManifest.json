@@ -1,7 +1,7 @@
 {
   "id": "com.bluepantsdev.helloworld",
   "title": "Hello World",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Shaun Sundquist <shaun@bluepants.dev>",
   "description": "file://DESCRIPTION.md",
   "tagline": "something something",
