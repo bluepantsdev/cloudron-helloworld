@@ -1,6 +1,6 @@
 {
   "name": "nodejs-HelloWorld",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A test app for Cloudron",
   "main": "server.js",
   "scripts": {

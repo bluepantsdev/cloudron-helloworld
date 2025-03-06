@@ -1,7 +1,7 @@
 {
   "id": "com.bluepantsdev.helloworld",
   "title": "Hello World",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Shaun Sundquist <shaun@bluepants.dev>",
   "description": "file://DESCRIPTION.md",
   "tagline": "something something",
@@ -29,7 +29,7 @@
     "SSH_PORT": {
       "title": "SSH Port",
       "description": "SSH Port over which repos can be pushed & pulled",
-      "defaultValue": 29418,
+      "defaultValue": 30418,
       "containerPort": 222,
       "portCount": 1
     }
