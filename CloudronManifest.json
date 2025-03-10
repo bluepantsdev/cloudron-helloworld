@@ -1,7 +1,7 @@
 {
   "id": "com.bluepantsdev.helloworld",
   "title": "Hello World",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "author": "Shaun Sundquist <shaun@bluepants.dev>",
   "description": "file://DESCRIPTION.md",
   "tagline": "something something",
@@ -21,17 +21,7 @@
   "icon": "file://image.png",
   "tags": [ "test", "collaboration" ],
   "mediaLinks": [ "https://images.rapgenius.com/fd0175ef780e2feefb30055be9f2e022.520x343x1.jpg" ],
-  "tagline": "The very best note keeper",
   "tags": [ "git", "version control", "scm" ],
   "postInstallMessage": "file://POSTINSTALL.md",
-  "changelog": "file://CHANGELOG.md",
-  "tcpPorts": {
-    "SSH_PORT": {
-      "title": "SSH Port",
-      "description": "SSH Port over which repos can be pushed & pulled",
-      "defaultValue": 30418,
-      "containerPort": 222,
-      "portCount": 1
-    }
-  }
+  "changelog": "file://CHANGELOG.md"
 }
